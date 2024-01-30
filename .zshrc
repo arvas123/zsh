@@ -83,7 +83,7 @@ plugins=(
 	git
 	zsh-autosuggestions
 	zsh-syntax-highlighting
-	brew
+	dnf
 	extract
 	)
 
